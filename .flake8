@@ -1,0 +1,4 @@
+[flake8]
+ignore = E501,E303
+exclude = .venv,.pytest_chahe
+max-line-length = 120
